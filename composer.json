@@ -1,0 +1,7 @@
+{
+    "name": "zaporylie/drupal-composer-drush-policy",
+    "description": "Force people to use composer over drush to manage dependencies.",
+    "type": "drupal-drush",
+    "license": "GPL-2.0+",
+    "require": {}
+}
