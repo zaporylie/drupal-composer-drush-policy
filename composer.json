@@ -3,5 +3,7 @@
     "description": "Force people to use composer over drush to manage dependencies.",
     "type": "drupal-drush",
     "license": "GPL-2.0+",
-    "require": {}
+    "require": {
+        "drush/drush": ">=6.0 <9.0"
+    }
 }
